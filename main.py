@@ -47,5 +47,5 @@ myTable.align = "l"
 myTable.align["Name"] = "c"
 myTable.set_style(MARKDOWN)
 print("Everything done, enjoy")
-print("\n \n")
+print("\n")
 print("Results: \n", myTable)
